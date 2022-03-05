@@ -1,6 +1,10 @@
 Changelog
 =========
 
+1.9.0
+-----
+- Added Django 4.0.3 support.
+
 1.8.0
 -----
 - Removed Python 2.7 support.
